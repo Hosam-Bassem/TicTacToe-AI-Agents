@@ -1,5 +1,5 @@
 # TicTacToe: Markov Decision Processes & Reinforcement Learning 
-A project to implement Value Iteration, Policy Iteration that plan/learn to play 3x3 Tic-Tac-Toe game in Java.
+A project to implement Value Iteration, Policy Iteration and Reinforcement Learning that plan/learn to play 3x3 Tic-Tac-Toe game in Java.
 
 ## Files
 * **ValueIterationAgent.java** -	A Value Iteration agent for solving the Tic-Tac-Toe game with an assumed MDP model.
